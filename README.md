@@ -1,5 +1,7 @@
 https://sites.google.com/ucsd.edu/maya-archeology-xr/vr-development/vr-documentation
 
+This repo is a placeholder for this project.  To view the hosting repo, please go to https://gitlab.nrp-nautilus.io/maya-archeology/maya-archeology-unity.
+
 # Maya Archeology VR
 <img src="https://gitlab.nrp-nautilus.io/maya-archeology/maya-archeology-unity/uploads/ad9a64b31bdd58fd9e40c5e84bdc3c93/E4E-Maya-VR-1074x588.png"  width=49% /> <img src="https://gitlab.nrp-nautilus.io/maya-archeology/maya-archeology-unity/uploads/3cf0f4c9951efb3c9b60364ef9dcf5dd/image.png"  width=49% />
 
